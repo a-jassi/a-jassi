@@ -5,11 +5,37 @@ I like solving real problems with clean, well-thought-out code, and I'm always l
 
 **Skills**
 
-![skills](https://skillicons.dev/icons?i=python,ts,js,react,nextjs,vue,nuxt,fastapi,nodejs,postgres,mongodb,mysql,docker,git,graphql,aws)
+<table border="0">
+  <tr>
+    <td><a href="https://skillicons.dev/icons?i=python"><img src="https://skillicons.dev/icons?i=python" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=ts"><img src="https://skillicons.dev/icons?i=ts" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=js"><img src="https://skillicons.dev/icons?i=js" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=react"><img src="https://skillicons.dev/icons?i=react" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=nextjs"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=vue"><img src="https://skillicons.dev/icons?i=vue" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=nuxt"><img src="https://skillicons.dev/icons?i=nuxt" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=fastapi"><img src="https://skillicons.dev/icons?i=fastapi" width="48" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://skillicons.dev/icons?i=nodejs"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=postgres"><img src="https://skillicons.dev/icons?i=postgres" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=mongodb"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=mysql"><img src="https://skillicons.dev/icons?i=mysql" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=docker"><img src="https://skillicons.dev/icons?i=docker" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=git"><img src="https://skillicons.dev/icons?i=git" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=graphql"><img src="https://skillicons.dev/icons?i=graphql" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=aws"><img src="https://skillicons.dev/icons?i=aws" width="48" /></a></td>
+  </tr>
+</table>
 
-**Currently Studying**
+**Currently Learning**
 
-![studying](https://skillicons.dev/icons?i=aws,cs)
+<table border="0">
+  <tr>
+    <td><a href="https://skillicons.dev/icons?i=aws"><img src="https://skillicons.dev/icons?i=aws" width="48" /></a></td>
+    <td><a href="https://skillicons.dev/icons?i=cs"><img src="https://skillicons.dev/icons?i=cs" width="48" /></a></td>
+  </tr>
+</table>
 
 **Connect with me!**
 

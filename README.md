@@ -17,5 +17,10 @@ I like solving real problems with clean, well-thought-out code, and I'm always l
 
 **GitHub stats**
 
-![Arshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-jassi&show_icons=true&hide_border=true&bg_color=00000000)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-jassi&layout=compact&hide_border=true&bg_color=00000000)
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=a-jassi&show_icons=true&hide_border=true&bg_color=00000000" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-jassi&layout=compact&hide_border=true&bg_color=00000000" /></td>
+  </tr>
+</table>
+

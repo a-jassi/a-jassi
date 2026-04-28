@@ -3,15 +3,15 @@
 I'm a software developer with a focus on full-stack web development and AI engineering.
 I like solving real problems with clean, well-thought-out code, and I'm always looking to build something new and learn along the way.
 
-**Main skills**
+**Skills**
 
 ![skills](https://skillicons.dev/icons?i=python,ts,js,react,nextjs,vue,nuxt,fastapi,nodejs,postgres,mongodb,mysql,docker,git,graphql,aws)
 
-**Studying**
+**Currently Studying**
 
 ![studying](https://skillicons.dev/icons?i=aws,cs)
 
-**Connect with me**
+**Connect with me!**
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/arshdeep-jassi)
 

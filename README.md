@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Arshdeep!
 
-<!--
-**a-jassi/a-jassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a focus on full-stack web development and AI engineering.
+I like solving real problems with clean, well-thought-out code, and I'm always looking to build something new and learn along the way.
 
-Here are some ideas to get you started:
+**Main skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![skills](https://skillicons.dev/icons?i=python,ts,js,react,nextjs,vue,nuxt,fastapi,nodejs,postgres,mongodb,mysql,docker,git,graphql,aws)
+
+**Studying**
+
+![studying](https://skillicons.dev/icons?i=aws,cs)
+
+**Connect with me**
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/arshdeep-jassi)
+
+**GitHub stats**
+
+![Arshdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-jassi&show_icons=true&hide_border=true&bg_color=00000000)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-jassi&layout=compact&hide_border=true&bg_color=00000000)
